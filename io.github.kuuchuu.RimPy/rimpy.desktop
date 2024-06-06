@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=RimPy
+Comment=A Mod Manager for RimWorld
+Exec=/app/rimpy-wrapper.sh
+Icon=io.github.kuuchuu.RimPy
+Terminal=false
+Type=Application
+Categories=Game;Utility;
